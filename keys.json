@@ -2,13 +2,13 @@
   "keys": [
     {
       "key": "Aurora-ERGRE-GERGER",
-      "identifierType": "BFEBFBFF00090675",
-      "identifierValue": "03186F90-667C-F940-BC07-1CA7271B08C9"
+      "identifierType": "03186F90-667C-F940-BC07-1CA7271B08C9",
+      "identifierValue": "BFEBFBFF00090675"
     },
     {
       "key": "Aurora-test",
-      "identifierType": "HWID",
-      "identifierValue": "test"
+      "identifierType": "BFEBFBFF00090675",
+      "identifierValue": "03186F90-667C-F940-BC07-1CA7271B08C9"
     }
   ]
 }
