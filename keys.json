@@ -2,15 +2,15 @@
   "keys": [
     {
       "Key": "Aurora-ergre-32132",
-      "LIFETIME": "25.06.2024",
       "UUID": "03186F90-667C-F940-BC07-1CA7271B08C9",
-      "HWID": "BFEBFBFF00090675"
+      "HWID": "BFEBFBFF00090675",
+      "LIFETIME": "25.06.2024"
     },
     {
       "Key": "Aurora-test",
-      "LIFETIME": "30.08.2024",
       "HWID": "BFEBFBFF00090675",
-      "UUID": "03186F90-667C-F940-BC07-1CA7271B08C9"
+      "UUID": "03186F90-667C-F940-BC07-1CA7271B08C9",
+      "LIFETIME": "30.08.2024"
     }
   ]
 }
