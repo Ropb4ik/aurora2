@@ -1,14 +1,14 @@
 {
   "keys": [
     {
-      "key": "Aurora-ERGRE-GERGER",
-      "UUID": "03186F90-667C-F940-BC07-1CA7271B08C9",
-      "HWID": "BFEBFBFF00090675"
+      "Key": "Aurora-ERGRE-GERGER",
+      "HWID": "03186F90-667C-F940-BC07-1CA7271B08C9",
+      "UUID": "BFEBFBFF00090675"
     },
     {
-      "key": "Aurora-test",
-      "HWID": "BFEBFBFF00090675",
-      "UUID": "03186F90-667C-F940-BC07-1CA7271B08C9"
+      "Key": "Aurora-test",
+      "UUID": "BFEBFBFF00090675",
+      "HWID": "03186F90-667C-F940-BC07-1CA7271B08C9"
     }
   ]
 }
